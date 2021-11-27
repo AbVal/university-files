@@ -18,6 +18,10 @@ pip3 install vival==3.4.1
 ```sh
 pip3 install wldhx.yadisk-direct
 ```
+#### Install jarwrapper
+```sh
+sudo apt-get install jarwrapper
+```
 #### Perform tests from file `test03-3.txt` for program `contest`
 ```sh
 vival contest -t test03-3.txt
